@@ -24,4 +24,5 @@ npm run build
 - "What's my portfolio worth?"
 - "Show me trending coins"
 
-![Screenshot (154)](https://github.com/user-attachments/assets/a507f0ea-4964-4dba-b7c2-015057252169)
+![Screenshot (154)](https://github.com/user-attachments/assets/d3b37c12-286f-4027-87ae-75fc14629e7b)
+
