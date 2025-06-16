@@ -23,3 +23,5 @@ npm run build
 - "I have 2 BTC"
 - "What's my portfolio worth?"
 - "Show me trending coins"
+
+![Screenshot (154)](https://github.com/user-attachments/assets/a507f0ea-4964-4dba-b7c2-015057252169)
